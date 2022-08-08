@@ -217,3 +217,6 @@ Modify your controller file by adding the following lines
 input_volume_up_axis = -1
 input_volume_down_axis = +1
 ```
+
+# License
+MIT
