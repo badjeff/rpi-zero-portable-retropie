@@ -1,6 +1,20 @@
 # 🕹 RetroPie Gamepad for Raspberry Pi Zero 🍓
 Yet another open sourced portable gamepad design & RetroPie setup guide. Designed to free the Rpi Zero anytime. Not jailed in the case. Attaching like a GameBoy cartridge. The CAD file for 3d printing is open sourced. You will need to be familiar with Autodesk Fusion360 to adjust the interia to fit your TFT screen module, power switch, lipo battery, charging module, speaker amplifier module, etc.
 
+[🎥 Video](https://github.com/badjeff/rpi-zero-portable-retropie/blob/main/images/in-progress.mov)
+
+![front](https://raw.githubusercontent.com/badjeff/rpi-zero-portable-retropie/main/images/front.jpg "front")
+
+![back](https://raw.githubusercontent.com/badjeff/rpi-zero-portable-retropie/main/images/back.jpg "back")
+
+![top](https://raw.githubusercontent.com/badjeff/rpi-zero-portable-retropie/main/images/top.jpg "top")
+
+![uncovered](https://raw.githubusercontent.com/badjeff/rpi-zero-portable-retropie/main/images/uncovered.jpg "uncovered")
+
+![switches-base](https://raw.githubusercontent.com/badjeff/rpi-zero-portable-retropie/main/images/switches-base.jpg "switches-base")
+
+![breadboard](https://raw.githubusercontent.com/badjeff/rpi-zero-portable-retropie/main/images/breadboard.jpg "breadboard")
+
 
 # List of parts needed to build
 - MCU, Any Raspberry Pi Zero series + SD Card
@@ -38,6 +52,7 @@ ADS1115 SCL-------pin 5 (GPIO 3)
 ADS1115 SDA-------pin 3 (GPIO 2)
 ADS1115 ADDR------pin 6 (GND)
 ```
+![pinout](https://raw.githubusercontent.com/badjeff/rpi-zero-portable-retropie/main/images/pinout.png "pinout")
 
 
 ## Install ILI9341 modules
